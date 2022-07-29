@@ -8,3 +8,6 @@
   3rd - Prashant830
   4th - hellow everyone I am frontend - Backend android developer from India.
 
+# Issue 1 resovled 
+ hello my name is Aman singh. Hacktoberfest is the best hackerthon for the beginner who learn open source.
+

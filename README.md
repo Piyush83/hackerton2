@@ -25,3 +25,6 @@
   2nd - Abhijeet Singh
   3rd - Abhijeet123
   4th - hellow everyone I am frontend - Backend android developer from India.
+
+# Issue 1 resovled 
+ hello my name is Abhisingh. Hacktoberfest is the best hackerthon for the beginner who learn open source.

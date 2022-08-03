@@ -28,3 +28,9 @@
 
 # Issue 1 resovled 
  hello my name is Ankit singh. Hacktoberfest is the best hackerthon for the beginner who learn open source.
+
+# Issue 2 resolved
+  1st - hacktoberfest 2021
+  2nd - Ankit Singh
+  3rd - Ankit123
+  4th - hellow everyone I am frontend - Backend android developer from India.
